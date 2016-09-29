@@ -6,6 +6,6 @@ I made this little application when I was bored on a Thursday. Basically, it jus
 
 It's built <b>only</b> for Windows 10 (because Cortana is only for Windows 10). 
 
-# HOW-TO-INSTALL
+# How-to-Install
 
 Just download the "app" directory (the 3 DLL files and the 1 .exe file). I am using the other files for testing/debugging. 
